@@ -1,0 +1,78 @@
+*{
+	padding: 0;
+}
+.boxbig
+	{border: 2px solid pink;
+	width:580px;
+	height:580px;
+    }
+.container{
+	background: white;
+	border: 2px solid red;
+	width: 450px;
+	height:471px;
+	margin-left: 60px;
+}
+.box1{
+	margin-bottom: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+	margin-left: 20px;
+	color:green;
+	border: 2px solid blue;
+	height:100px;
+}
+.box2{
+	color:green;
+	border: 2px solid green;
+	flex:2;
+	height: 300px;
+	width: 200px;
+	padding-right: 200px;
+}
+.box3{
+	margin-right: 20px;
+	color:blue;
+	border: 2px solid orange;
+	height:300px;
+	flex:2;
+	margin-right: 20px;
+}
+.flex{
+	display:flex;
+	margin:21px;
+}
+.box2{
+	flex:2;
+	boder:2px solid green;
+}
+.box3{
+	flex:3;
+	border:2px solid orange;
+}
+.myfooter{
+	background-color: gray;
+	border: 2px solid blue;
+	width:580px;
+	margin-top: 10px;
+	color: blue;
+}
+.mycontainer{
+	border:2px solid green;
+	width: 450px;
+	padding-bottom:20px;
+	margin-left: 104px;
+    color:green;}
+.columbox2{
+	border: 2px solid blue;
+	height: 200px;
+	margin-right:20px;
+}
+.colum1 {border: 2px solid purple;
+	text-align: center;}
+.colum2{border: 2px solid purple;
+	text-align: center;}
+.colum3{
+	border: 2px solid purple;
+	text-align: center;
+}

@@ -1,0 +1,25 @@
+.boxlarge{
+	border:2px dotted black;
+	height: 263px;
+	width: 76%;
+	margin: 50px;
+}
+.boxsmall{
+    border:2px solid black;
+    margin:20px;
+    padding:18px;
+    height:181px;
+    width:83%;
+}
+.box1{
+   border: 2px dotted black;
+   padding: 20px;
+   font-size: 25px;
+   font-weight: bold;
+   margin-bottom: 10px;
+   margin-top: 20px;
+}
+.box2{
+   border: 2px dotted black;
+   padding: 20px;
+}
