@@ -1,0 +1,37 @@
+*{
+	padding:0;
+	margin:0;
+   }
+ .box{
+ 	
+ 	margin: 31px auto;
+	width: 376px;
+	height: 342px;
+	border: 2px solid black;
+	box-shadow: 5px 6px 5px grey;
+ }
+ ul{
+ 	margin-left: 20px;
+ }
+ p{
+ 	font-size: 30px;
+ 	font-weight: bold;
+ 	padding: 15px;
+ }
+ 	
+ ul li{
+ 	margin: 11px;
+ 	padding: 15px;
+ 	width: 284px;
+ 	list-style-type: none;
+    border: 2px solid blue;
+    text-indent: 10px;
+}
+ 	a{
+ 		text-decoration: none;
+ 		font-weight: bold;
+ 		color:blue;
+ 	}
+ 	li.active{
+ 		background-color: silver;
+ 	}
